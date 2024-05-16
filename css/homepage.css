@@ -1,0 +1,437 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  overflow: hidden;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.desktop {
+  background-color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+
+.desktop .div {
+  background-color: rgba(255, 255, 255, 1);
+  overflow: hidden;
+  background: linear-gradient(180deg, rgb(28.69, 28.69, 28.69) 0%, rgb(38.25, 0, 0) 100%);
+  height: 100%;
+  width: 100%;
+  position: relative;
+}
+.desktop .text-wrapper-6 .text-wrapper-7 .text-wrapper-8 .text-wrapper-9 .text-wrapper-10{
+    font-weight: 550;
+}
+.desktop * {
+    font-weight: bolder;
+}
+.desktop {
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .desktop .div {
+    overflow: hidden;
+    background-color: rgba(255, 255, 255, 1);
+    background: linear-gradient(180deg, rgb(28.69, 28.69, 28.69) 0%, rgb(38.25, 0, 0) 100%);
+    width: 1440px;
+    height: 1024px;
+    position: relative;
+  }
+  
+  .desktop .group {
+    position: absolute;
+    width: 1440px;
+    height: 61px;
+    top: -3px;
+    left: 0;
+  }
+  
+  .desktop .navbar-wrapper {
+    width: 1450px;
+    height: 61px;
+  }
+  
+  .desktop .navbar {
+    position: relative;
+    width: 1440px;
+    height: 61px;
+  }
+  
+  .desktop .rectangle {
+    position: absolute;
+    width: 1440px;
+    height: 58px;
+    top: 3px;
+    left: 0;
+    background-color: #550000;
+  }
+  
+  .desktop .text-wrapper {
+    width: 69px;
+    top: 9px;
+    left: 321px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 32px;
+    font-weight: 400;
+    position: absolute;
+    color: #ffffff;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+.text-wrapper a {
+  color: inherit;
+  text-decoration: none;
+  font-weight: bold;
+}
+  
+  .desktop .text-wrapper-2 {
+    position: absolute;
+    width: 268px;
+    top: 9px;
+    left: 995px;
+    font-weight: 400;
+    font-family: "Poppins-Regular", Helvetica;
+    color: #ffffff;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  .text-wrapper-2 a {
+    color: inherit;
+    text-decoration: none;
+    font-weight: bold;
+    }
+  .desktop .text-wrapper-3 {
+    position: absolute;
+    top: 9px;
+    left: 765px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 32px;
+    font-weight: 400;
+    position: absolute;
+    font-size: 32px;
+    color: #ffffff;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  .text-wrapper-3 a {
+    color: inherit;
+    text-decoration: none;
+    font-weight: bold;
+    }
+  .desktop .text-wrapper-4 {
+    position: absolute;
+    width: 182px;
+    top: 9px;
+    left: 502px;
+    font-family: "Poppins-Regular", Helvetica;
+    color: #ffffff;
+    font-weight: 400;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  .text-wrapper-4 a {
+    color: inherit;
+    text-decoration: none;
+    font-weight: bold;
+    }
+  
+  .desktop .text-wrapper-5 {
+    width: 22px;
+    top: 0;
+    left: 37px;
+    font-family: "Life Savers-ExtraBold", Helvetica;
+    font-weight: 800;
+    font-size: 64px;
+    text-align: center;
+    white-space: nowrap;
+    position: absolute;
+    color: #c70303;
+    letter-spacing: 0;
+}
+
+.text-wrapper-5 a {
+    color: inherit;
+    text-decoration: none;
+    font-weight: bold;
+}
+  
+  .desktop .group-2 {
+    position: absolute;
+    width: 1361px;
+    height: 294px;
+    top: 81px;
+    left: 10px;
+  }
+  
+  .desktop .group-3 {
+    position: absolute;
+    width: 141px;
+    height: 252px;
+    top: 42px;
+    left: 38px;
+  }
+  
+  .desktop .image {
+    position: absolute;
+    width: 139px;
+    height: 209px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .desktop .text-wrapper-6 {
+    position: absolute;
+    width: 139px;
+    top: 218px;
+    left: 0;
+    font-family: "Lilita One-Regular", Helvetica;
+    color: #ffffff;
+    font-size: 15px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .group-4 {
+    position: absolute;
+    width: 141px;
+    height: 235px;
+    top: 42px;
+    left: 432px;
+  }
+  
+  .desktop .group-5 {
+    position: absolute;
+    width: 141px;
+    height: 235px;
+    top: 42px;
+    left: 629px;
+  }
+  
+  .desktop .group-6 {
+    position: absolute;
+    width: 141px;
+    height: 235px;
+    top: 42px;
+    left: 826px;
+  }
+  
+  .desktop .group-7 {
+    position: absolute;
+    width: 141px;
+    height: 235px;
+    top: 42px;
+    left: 1023px;
+  }
+  
+  .desktop .group-8 {
+    position: absolute;
+    width: 141px;
+    height: 235px;
+    top: 42px;
+    left: 1220px;
+  }
+  
+  .desktop .group-9 {
+    position: absolute;
+    width: 141px;
+    height: 235px;
+    top: 42px;
+    left: 238px;
+  }
+  
+  .desktop .text-wrapper-7 {
+    position: absolute;
+    width: 361px;
+    top: 0;
+    left: 0;
+    font-family: "Lilita One-Regular", Helvetica;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .desktop .group-10 {
+    position: absolute;
+    width: 1361px;
+    height: 279px;
+    top: 389px;
+    left: 10px;
+  }
+  
+  .desktop .text-wrapper-8 {
+    position: absolute;
+    width: 427px;
+    top: 0;
+    left: 0;
+    font-family: "Lilita One-Regular", Helvetica;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .group-11 {
+    position: absolute;
+    width: 141px;
+    height: 237px;
+    top: 42px;
+    left: 38px;
+  }
+
+  .desktop .text-wrapper-9 {
+    position: absolute;
+    width: 139px;
+    top: 220px;
+    left: 0;
+    font-family: "Lilita One-Regular", Helvetica;
+    color: #ffffff;
+    font-size: 15px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .group-12 {
+    position: absolute;
+    width: 141px;
+    height: 237px;
+    top: 42px;
+    left: 238px;
+  }
+  
+  .desktop .group-13 {
+    position: absolute;
+    width: 141px;
+    height: 237px;
+    top: 42px;
+    left: 432px;
+  }
+  
+  .desktop .group-14 {
+    position: absolute;
+    width: 141px;
+    height: 237px;
+    top: 42px;
+    left: 826px;
+  }
+  
+  .desktop .group-15 {
+    position: absolute;
+    width: 141px;
+    height: 237px;
+    top: 42px;
+    left: 629px;
+  }
+  
+  .desktop .group-16 {
+    position: absolute;
+    width: 141px;
+    height: 237px;
+    top: 42px;
+    left: 1023px;
+  }
+  
+  .desktop .group-17 {
+    position: absolute;
+    width: 141px;
+    height: 237px;
+    top: 42px;
+    left: 1220px;
+  }
+  
+  .desktop .group-18 {
+    position: absolute;
+    width: 1361px;
+    height: 327px;
+    top: 690px;
+    left: 10px;
+  }
+  
+  .desktop .group-19 {
+    position: absolute;
+    width: 141px;
+    height: 244px;
+    top: 49px;
+    left: 38px;
+  }
+  
+  .desktop .text-wrapper-10 {
+    position: absolute;
+    width: 139px;
+    top: 227px;
+    left: 0;
+    font-family: "Lilita One-Regular", Helvetica;
+    color: #ffffff;
+    font-size: 15px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .group-20 {
+    position: absolute;
+    width: 141px;
+    height: 244px;
+    top: 49px;
+    left: 235px;
+  }
+  
+  .desktop .group-21 {
+    position: absolute;
+    width: 141px;
+    height: 278px;
+    top: 49px;
+    left: 432px;
+  }
+  
+  .desktop .group-22 {
+    position: absolute;
+    width: 141px;
+    height: 244px;
+    top: 49px;
+    left: 629px;
+  }
+  
+  .desktop .group-23 {
+    height: 244px;
+    left: 826px;
+    position: absolute;
+    width: 141px;
+    top: 49px;
+  }
+  
+  .desktop .group-24 {
+    height: 244px;
+    left: 1220px;
+    position: absolute;
+    width: 141px;
+    top: 49px;
+  }
+  
+  .desktop .group-25 {
+    height: 261px;
+    left: 1023px;
+    position: absolute;
+    width: 141px;
+    top: 49px;
+  }
+  
